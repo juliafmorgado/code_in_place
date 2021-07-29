@@ -1,5 +1,5 @@
 """
-This program asks the user for a number and prints its square root.
+This program asks the user for a number and prints back its square root.
 """
 
 import math
