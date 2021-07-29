@@ -1,5 +1,6 @@
 """
-This program simulates rolling two dice and prints results of each roll as well as the total.
+This program simulates rolling two dice and 
+prints results of each roll as well as the total.
 """
 
 import random
