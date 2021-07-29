@@ -2,7 +2,7 @@
 This program converts feet to total number of inches.
 """
 
-# Number of inches in a foot
+# Number of inches in a foot:
 INCHES_IN_FOOT = 12
 
 def main():
